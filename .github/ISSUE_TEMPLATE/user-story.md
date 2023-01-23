@@ -15,3 +15,8 @@ so that **received benefit**.
 * Criteria-example
 * Criteria-example
 * Criteria-example
+
+## Tasks:
+- [ ] Task-example
+- [ ] Task-example
+- [ ] Task-example

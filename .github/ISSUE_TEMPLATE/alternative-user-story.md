@@ -15,3 +15,8 @@ I can **goal / desire**.
 * Criteria-example
 * Criteria-example
 * Criteria-example
+
+## Tasks:
+- [ ] Task-example
+- [ ] Task-example
+- [ ] Task-example
